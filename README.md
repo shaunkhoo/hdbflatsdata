@@ -1,9 +1,3 @@
----
-output: 
-  html_document:
-    keep_md: true
----
-
 ## Analysing HDB Resale Flats Data from Data.gov.sg
 
 This is the GitHub page for my post analysing Singapore's HDB resale flats transactions data, which you can find [here](https://shaunkhoo.github.io/post/hdbresaleflats1/).
